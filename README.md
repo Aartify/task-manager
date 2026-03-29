@@ -2,7 +2,7 @@
 
 A sleek, AI-powered task manager built with vanilla HTML/CSS/JS and **Claude (Anthropic)** as the AI backbone. Deploy to any static hosting platform in minutes.
 
-![TaskAI Screenshot](screenshot.png)
+
 
 ## ✦ Features
 
